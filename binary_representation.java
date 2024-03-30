@@ -1,3 +1,5 @@
+// https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/binary-representation?page=0&pageSize=50
+
 import java.io.*;
 import java.util.*;
 

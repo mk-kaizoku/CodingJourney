@@ -1,3 +1,4 @@
+// https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/rotation-of-matrix?page=0&pageSize=50
 import java.io.*;
 import java.util.*;
 
@@ -38,7 +39,7 @@ public class rotation_of_matrix {
                 mat[i][n-1-j]=temp;
             }
         }
-        
+
         //Print the rotated matrix
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
