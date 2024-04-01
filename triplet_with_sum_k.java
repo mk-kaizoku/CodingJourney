@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class triple_with_sum_k {
+public class triplet_with_sum_k{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
