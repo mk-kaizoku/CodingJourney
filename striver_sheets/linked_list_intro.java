@@ -1,5 +1,3 @@
-package striver_sheets;
-
 class Node{
     int data;
     Node next;

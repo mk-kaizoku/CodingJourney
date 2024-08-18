@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "depth_of_tree_nodes",
+            "request": "launch",
+            "mainClass": "depth_of_tree_nodes",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LRUCache",
+            "request": "launch",
+            "mainClass": "LRUCache",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "Trie",
+            "request": "launch",
+            "mainClass": "Trie",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "a_plus_b",
+            "request": "launch",
+            "mainClass": "a_plus_b",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "balanced_parenthesis",
+            "request": "launch",
+            "mainClass": "balanced_parenthesis",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "binary_representation",
+            "request": "launch",
+            "mainClass": "binary_representation",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "cardgame",
+            "request": "launch",
+            "mainClass": "cardgame",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "check_anagrams",
+            "request": "launch",
+            "mainClass": "check_anagrams",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "checkerboard_pattern",
+            "request": "launch",
+            "mainClass": "checkerboard_pattern",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "clockwise_rotation_of_array",
+            "request": "launch",
+            "mainClass": "clockwise_rotation_of_array",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "collecting_water",
+            "request": "launch",
+            "mainClass": "collecting_water",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "count_set_bits",
+            "request": "launch",
+            "mainClass": "count_set_bits",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "finding_missing_number",
+            "request": "launch",
+            "mainClass": "finding_missing_number",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "finding_the_floor",
+            "request": "launch",
+            "mainClass": "finding_the_floor",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "flip_bits",
+            "request": "launch",
+            "mainClass": "flip_bits",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "height_of_tree",
+            "request": "launch",
+            "mainClass": "height_of_tree",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "implement_deque",
+            "request": "launch",
+            "mainClass": "implement_deque",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "implement_queue",
+            "request": "launch",
+            "mainClass": "implement_queue",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "linked_list_intro",
+            "request": "launch",
+            "mainClass": "linked_list_intro",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "longest_palindromic_substring",
+            "request": "launch",
+            "mainClass": "longest_palindromic_substring",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "pair_with_difference_k",
+            "request": "launch",
+            "mainClass": "pair_with_difference_k",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "power_game",
+            "request": "launch",
+            "mainClass": "power_game",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "power_of_2",
+            "request": "launch",
+            "mainClass": "power_of_2",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "protective_villagers",
+            "request": "launch",
+            "mainClass": "protective_villagers",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "rabin_karp",
+            "request": "launch",
+            "mainClass": "rabin_karp",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "repeated_numbers",
+            "request": "launch",
+            "mainClass": "repeated_numbers",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "rotation_of_matrix",
+            "request": "launch",
+            "mainClass": "rotation_of_matrix",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "selection_sort",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "subset_sum_v1",
+            "request": "launch",
+            "mainClass": "subset_sum_v1",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_array_elements",
+            "request": "launch",
+            "mainClass": "sum_of_array_elements",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_pairs",
+            "request": "launch",
+            "mainClass": "sum_of_pairs",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_subarrays",
+            "request": "launch",
+            "mainClass": "sum_of_subarrays",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "tower_of_hanoi",
+            "request": "launch",
+            "mainClass": "tower_of_hanoi",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "tree_traversals",
+            "request": "launch",
+            "mainClass": "tree_traversals",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "triple_trouble",
+            "request": "launch",
+            "mainClass": "triple_trouble",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "triplet_with_sum_k",
+            "request": "launch",
+            "mainClass": "triplet_with_sum_k",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "valid_parenthesis",
+            "request": "launch",
+            "mainClass": "valid_parenthesis",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
+            "name": "xor_of_sum_of_pairs",
+            "request": "launch",
+            "mainClass": "xor_of_sum_of_pairs",
+            "projectName": "CodingJourney_d1a2dfb"
+        }
+    ]
+}
