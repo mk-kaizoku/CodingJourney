@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 
@@ -55,5 +54,6 @@ public class depth_of_tree_nodes {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

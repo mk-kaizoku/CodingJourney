@@ -35,5 +35,6 @@ public class cardgame {
 
             System.out.println(result);
         }
+        sc.close();
     }
 }

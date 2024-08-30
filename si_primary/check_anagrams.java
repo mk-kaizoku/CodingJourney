@@ -12,7 +12,6 @@
 // stop post                               True
 // hi hey                                  False
 
-import java.io.*;
 import java.util.*;
 
 public class check_anagrams {
@@ -31,6 +30,7 @@ public class check_anagrams {
             }
 
         }
+        sc.close();
     }
     public static boolean checkanagram(String s1, String s2){
         int[] cnt1= new int[26];

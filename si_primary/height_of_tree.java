@@ -37,5 +37,6 @@ public class height_of_tree {
             }
             System.out.println(height(root));
         }
+        sc.close();
     }
 }

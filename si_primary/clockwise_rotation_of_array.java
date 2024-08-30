@@ -1,5 +1,4 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/clockwise-rotation-of-array?page=0&pageSize=100
-import java.io.*;
 import java.util.*;
 
 public class clockwise_rotation_of_array {
@@ -18,6 +17,7 @@ public class clockwise_rotation_of_array {
             clockrotate(arr,n,k);
 
         }
+        sc.close();
     }
     // reverse whole array
     // reverse 0 to k-1

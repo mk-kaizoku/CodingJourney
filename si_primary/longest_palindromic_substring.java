@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/longest-palindromic-substring?page=0&pageSize=100
 
-import java.io.*;
 import java.util.*;
 
 public class longest_palindromic_substring {
@@ -15,6 +14,7 @@ public class longest_palindromic_substring {
             System.out.println(longpalindromestring(ch,n));
         
         }
+        sc.close();
     }
 
     public static int longpalindromestring(char[] ch, int n){
@@ -38,5 +38,6 @@ public class longest_palindromic_substring {
             ans=Math.max(ans,p4-p3-1);
         }
         return ans;
+        
     }
 }

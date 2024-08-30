@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/flip-bits?page=0&pageSize=50
 
-import java.io.*;
 import java.util.*;
 
 public class flip_bits {
@@ -24,5 +23,6 @@ public class flip_bits {
             }
             System.out.println(count);
         }
+        sc.close();
     }
 }

@@ -1,5 +1,4 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/repeated-numbers?page=0&pageSize=50
-import java.io.*;
 import java.util.*;
 
 public class repeated_numbers {
@@ -34,6 +33,7 @@ public class repeated_numbers {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 }

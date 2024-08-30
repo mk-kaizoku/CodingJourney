@@ -2,7 +2,6 @@
 // Maximum of minimums type problem using binary search approach 
 // you search for distances ranging from lowest(1) and highest(arr[n-1]-arr[0]) and check if the distance is valid 
 // such that we can seperate the k villagers by that distance 
-import java.io.*;
 import java.util.*;
 
 public class protective_villagers {
@@ -22,6 +21,7 @@ public class protective_villagers {
             int ans = bsprotectvill(arr,n,c);
             System.out.println(ans);
         }
+        sc.close();
     }
 
     public static boolean isValid(int[] arr ,int n, int c, int mid){

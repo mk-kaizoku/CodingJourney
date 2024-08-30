@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class subset_sum_v1 {
@@ -19,6 +18,7 @@ public class subset_sum_v1 {
             else
                 System.out.println("NO");
         }
+        sc.close();
     }
     static boolean checkbit(int n, int k){
         if(((n>>k)&1)>0)

@@ -3,7 +3,6 @@
 // sort arr
 // two for loops to set arr[i],arr[j]
 // use bs to find if there exists k-arr[i]-arr[j]
-import java.io.*;
 import java.util.*;
 
 public class triplet_with_sum_k{
@@ -25,6 +24,7 @@ public class triplet_with_sum_k{
             else{
                 System.out.println("false");
             }
+            sc.close();
         }
     }
     public static boolean bs(int[] arr, int low, int high, int k){

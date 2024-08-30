@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class pair_with_difference_k {
@@ -26,7 +25,8 @@ public class pair_with_difference_k {
                 if(checkdiffbs(arr,i+1,n-1,target))
                     s="true";   
             }
-            System.out.println(s);            
+            System.out.println(s);  
+            sc.close();          
         }
     }
 

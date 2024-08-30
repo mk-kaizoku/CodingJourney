@@ -57,7 +57,6 @@ Output
 9
 
  */
-import java.io.*;
 import java.util.*;
 
 public class finding_missing_number {
@@ -88,5 +87,6 @@ public class finding_missing_number {
             System.out.println(xor1^xor2);
             
         }
+        sc.close();
     }
 }

@@ -35,5 +35,6 @@ public class test {
 
             System.out.println(result);
         }
+        sc.close();
     }
 }

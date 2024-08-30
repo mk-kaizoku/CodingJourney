@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/power-of-2?page=0&pageSize=50
 
-import java.io.*;
 import java.util.*;
 
 public class power_of_2 {
@@ -20,5 +19,7 @@ public class power_of_2 {
             else
                 System.out.println("True");
         }
+        sc.close();
     }
+
 }

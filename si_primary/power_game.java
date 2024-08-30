@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/power-game?page=0&pageSize=100
 
-import java.io.*;
 import java.util.*;
 
 public class power_game {
@@ -23,6 +22,7 @@ public class power_game {
             int ans=powersum(a,b,n);
             System.out.println(ans);
         }
+        sc.close();
     }
     static int powersum(int[] a,int[] b, int n){
         int x =0;

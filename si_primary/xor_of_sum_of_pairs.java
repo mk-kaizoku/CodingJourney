@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/xor-of-sum-of-pairs?page=0&pageSize=50
 
-import java.io.*;
 import java.util.*;
 
 public class xor_of_sum_of_pairs {
@@ -19,5 +18,6 @@ public class xor_of_sum_of_pairs {
             System.out.println(ans);
             
         }
+        sc.close();
     }
 }

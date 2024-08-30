@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/triple-trouble?page=0&pageSize=50
 
-import java.io.*;
 import java.util.*;
 
 public class triple_trouble{
@@ -18,6 +17,7 @@ public class triple_trouble{
             System.out.println(tripletrouble(arr,n));
 
         }
+        sc.close();
     }
     static boolean checkbit(int n, int k){
         if(((n>>k)&1)==1)

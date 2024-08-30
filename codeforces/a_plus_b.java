@@ -13,6 +13,7 @@ public class a_plus_b {
             }
             System.out.println(sum);
         }
+        sc.close();
     }
     
 }

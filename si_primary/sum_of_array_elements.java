@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class sum_of_array_elements {
@@ -18,5 +17,6 @@ public class sum_of_array_elements {
             }
             System.out.println(sum);
         }
+        sc.close();
     }
 }

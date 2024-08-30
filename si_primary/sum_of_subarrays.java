@@ -1,5 +1,4 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/sum-of-subarrays?page=0&pageSize=100
-import java.io.*;
 import java.util.*;
 
 public class sum_of_subarrays {
@@ -25,5 +24,6 @@ public class sum_of_subarrays {
             else
                 System.out.println(arr[end]);
         }
+        sc.close();
     }
 }

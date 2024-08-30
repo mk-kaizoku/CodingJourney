@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/count-set-bits?page=0&pageSize=50
 
-import java.io.*;
 import java.util.*;
 
 public class count_set_bits {
@@ -19,6 +18,7 @@ public class count_set_bits {
             }
             System.out.println(count);
         }
+        sc.close();
         
     }
     public static boolean checkbit(long n, int k){

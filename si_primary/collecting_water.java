@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/collecting-water?page=0&pageSize=100
 
-import java.io.*;
 import java.util.*;
 
 public class collecting_water {
@@ -16,6 +15,7 @@ public class collecting_water {
             }
             System.out.println(collectwater(arr,n));
         }
+        sc.close();
     }
     public static int collectwater(int[] arr, int n){
         int left=0;

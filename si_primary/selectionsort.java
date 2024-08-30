@@ -1,9 +1,8 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/selection-sort?page=0&pageSize=100
 
-import java.io.*;
 import java.util.*;
 
-public class selection_sort {
+public class selectionsort {
     public static void selection_sort(int[] arr, int n){
         for(int i=0; i<n-1; i++){
             int max=0;
@@ -30,5 +29,6 @@ public class selection_sort {
             }
             selection_sort(arr,n);
         }
+        sc.close();
     }
 }

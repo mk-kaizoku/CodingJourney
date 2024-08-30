@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class finding_the_floor {
@@ -19,6 +18,7 @@ public class finding_the_floor {
             int result=floorbsr(arr,0,n-1,q,ans);
             System.out.println(result);
         }
+        sc.close();
         
     }
     public static int floorbsr(int[] arr,int low, int high, int q,int ans){

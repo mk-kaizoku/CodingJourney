@@ -86,6 +86,7 @@ public class tree_traversals {
             print(inOrder(root));
             
         }
+        sc.close();
     }
 }
     

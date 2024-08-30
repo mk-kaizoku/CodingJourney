@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "top_view_tree",
+            "request": "launch",
+            "mainClass": "top_view_tree",
+            "projectName": "CodingJourney_d1a2dfb"
+        },
+        {
+            "type": "java",
             "name": "depth_of_tree_nodes",
             "request": "launch",
             "mainClass": "depth_of_tree_nodes",

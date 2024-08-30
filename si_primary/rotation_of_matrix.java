@@ -1,5 +1,4 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/rotation-of-matrix?page=0&pageSize=50
-import java.io.*;
 import java.util.*;
 
 public class rotation_of_matrix {
@@ -20,6 +19,7 @@ public class rotation_of_matrix {
             rotatematrix(mat,n);
             x++;
         }
+        sc.close();
     }
     public static void rotatematrix(int[][] mat, int n){
         // First, transpose the matrix
@@ -47,5 +47,6 @@ public class rotation_of_matrix {
             }
             System.out.println();
         }
+        
     }
 }

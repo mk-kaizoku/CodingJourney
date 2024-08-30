@@ -12,6 +12,7 @@ public class rabin_karp {
             String s=input[1];
             System.out.println(rabin_karp_helper(p,s));
         }
+        sc.close();
     }
     
     public static int rabin_karp_helper(String p, String s){

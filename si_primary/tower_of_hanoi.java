@@ -1,5 +1,4 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/tower-of-hanoi?page=0&pageSize=100
-import java.io.*;
 import java.util.*;
 
 public class tower_of_hanoi {
@@ -15,6 +14,7 @@ public class tower_of_hanoi {
             hanoitowerR(n,'A','C','B');
 
         }
+        sc.close();
     }
     
     public static void hanoitowerR(int n,char src, char dest, char aux){

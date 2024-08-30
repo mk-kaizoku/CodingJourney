@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class valid_parenthesis {
@@ -15,6 +14,7 @@ public class valid_parenthesis {
             test_case++;
 
         }
+        sc.close();
     }
     public static void helper_recursive(char[] arr, int n, int idx, int oc, int cc,List<String> ans){
         if(idx==2*n){

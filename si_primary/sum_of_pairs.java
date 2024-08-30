@@ -2,7 +2,6 @@
 //  if arr[i]+arr[j]==k return true; else return false;
 // using binary search we find the required number
 
-import java.io.*;
 import java.util.*;
 
 public class sum_of_pairs {
@@ -23,7 +22,7 @@ public class sum_of_pairs {
             else
                 System.out.println("False");
 
-
+            sc.close();
         }
     }
     public static boolean sumofpairs(int[] arr, int n, int required){

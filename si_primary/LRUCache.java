@@ -4,7 +4,7 @@ public class LRUCache {
     Node head = new Node(0,0);
     Node tail = new Node(0,0);
     int capacity;
-    Map<Integer, Node> map= new HashMap();
+    Map<Integer, Node> map= new HashMap<>();
     
 
     class Node{
@@ -93,9 +93,10 @@ public class LRUCache {
 
             }
 
-
+            
 
         }
+        sc.close();
     }
     
 }

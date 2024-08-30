@@ -1,6 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/binary-representation?page=0&pageSize=50
 
-import java.io.*;
 import java.util.*;
 
 public class binary_representation {
@@ -13,6 +12,7 @@ public class binary_representation {
             String s=binaryform(n);
             System.out.println(s);
         }
+        sc.close();
     }
     public static String binaryform(int n){
         String s="";

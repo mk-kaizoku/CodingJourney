@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class implement_deque {
@@ -89,6 +88,6 @@ public class implement_deque {
                 deque.popBack();
             }
         }
-
+        sc.close();
     }
 }
