@@ -1,11 +1,8 @@
-import java.io.*;
 import java.util.*;
 
 public class k_smallest_element {
     public static void kthSmallestEle(int[] arr , int k){
         PriorityQueue<Integer> pq= new PriorityQueue<>();
-        int n=arr.length;
-
         for(int num: arr){
             pq.add(num);
         }
@@ -29,5 +26,6 @@ public class k_smallest_element {
             }
             kthSmallestEle(arr,k);
         }
+        sc.close();
     }
 }
